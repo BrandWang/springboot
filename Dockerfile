@@ -1,4 +1,4 @@
-FROM  docker pull idasound/centos7-jdk8
+FROM  idasound/centos7-jdk8
 
 MAINTAINER Brand Idasound "haowang@idasound.com"
 
